@@ -33,10 +33,13 @@ tags:
     sousuo = driver.find_element(by=By.XPATH, value="//button[@class='banner__btn']/span")
     action.move_to_element(sousuo).click().perform()
 ```  
-效果如下图：
+效果如下图：  
 <img src="https://github.com/Jeffrey-love/Crawler_Selenium/blob/main/Pictures/1.jpg" width = "650" height = "400" alt="" align=center />    
 另外，webdriver模块也有获取网页源码等等操作，例如  
-`html_doc = driver.page_source`  
+`html_doc = driver.page_source`    
 
+成功运行  
+<img src="https://github.com/Jeffrey-love/Crawler_Selenium/blob/main/Pictures/2.jpg" width = "550" height = "400" alt="" align=center />    
+爬虫的基本模块其实就这么些，至于更多要深入研究的是反爬虫，以及反反爬虫，Cookie、session的处理等。  
 
-
+感谢阅读！文中若有错误欢迎各位大佬指出！
