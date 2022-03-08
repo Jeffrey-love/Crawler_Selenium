@@ -41,5 +41,5 @@ tags:
 成功运行  
 <img src="https://github.com/Jeffrey-love/Crawler_Selenium/blob/main/Pictures/2.jpg" width = "550" height = "400" alt="" align=center />    
 爬虫的基本模块其实就这么些，至于更多要深入研究的是反爬虫，以及反反爬虫，Cookie、session的处理等。  
-
+:pray:
 感谢阅读！文中若有错误欢迎各位大佬指出！
