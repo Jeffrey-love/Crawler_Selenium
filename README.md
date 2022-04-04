@@ -40,6 +40,7 @@ tags:
 
 成功运行  
 <img src="https://github.com/Jeffrey-love/Crawler_Selenium/blob/main/Pictures/2.jpg" width = "550" height = "400" alt="" align=center />    
-爬虫的基本模块其实就这么些，至于更多要深入研究的是反爬虫，以及反反爬虫，Cookie、session的处理等。  
+爬虫的基本模块其实就这么些，至于更多要深入研究的是反爬虫，以及反反爬虫，Cookie、session的处理等。    
+此外，selenium框架的使用方法明显远远不止爬虫，竟然可以与网页互动，那就有无限的可能~  
 :pray:
 感谢阅读！文中若有错误欢迎各位大佬指出！
